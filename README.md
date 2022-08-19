@@ -10,6 +10,6 @@ Criptografando uma Mensagem:
 
 ![alt text](https://raw.githubusercontent.com/alissonjaques/cifra_de_cesar/main/Prints%20da%20Aplica%C3%A7%C3%A3o/criptografando.PNG)
 
-Descriptogrando um Mensagem:
+Descriptogrando uma Mensagem:
 
 ![alt text](https://raw.githubusercontent.com/alissonjaques/cifra_de_cesar/main/Prints%20da%20Aplica%C3%A7%C3%A3o/descriptografando.PNG)
